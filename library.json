@@ -8,19 +8,9 @@
     "description": "Barbeque in the USA",
     "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Louisiana.png"
   },
-
-  {
-    "id": "002",
-    "title": "USA",
-    "country": "USA",
-    "tradition": "Barbeque",
-    "contributor": "Participant 03",
-    "description": "Barbeque in the USA",
-    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Louisiana.png"
-  },
   
   {
-    "id": "003",
+    "id": "002",
     "title": "'La feria de Sevilla' in Sevilla, Spain",
     "country": "Spain",
     "tradition": "Festival",
@@ -31,13 +21,12 @@
   },
   
   {
-    "id": "004",
+    "id": "003",
     "title": "Winter Theme Park, Ukraine ",
     "country": "Ukraine",
     "tradition": "Winter Theme Park",
     "contributor": "Participant 08: Fancy themed park in the winter around Christmas. Shops, Christmas tree and ferris wheel. It's one of my favourite places in Kharkiv (Central park of culture and recreation named after M Gorky)",
     "description": "Prompt: fancy themed park. winter. fairy lights. people walking. square with a big christmas tree in the middle. big ferris wheel. big stage for performing. shops stationed around the christmas tree. attractions in the distance. alleys with trees and benches. ",
-    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Spain.png"
-    
+    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Louisiana.png"
   }
 ]
