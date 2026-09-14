@@ -10,29 +10,29 @@
   },
   {
     "id": "002",
-    "title": "2. Louisiana, USA",
+    "title": "2. Bayou Barbeque, USA -- バイユー・バーベキュー（米国）",
     "country": "USA",
     "tradition": "Barbeque",
     "contributor": "P15",
-    "description": "An outdoor crawfish boil. The scene includes a family eating at a picnic table and two friends talking, as well as two large pots of boiled crawfish. Text explains some history and common practices",
+    "description": "An outdoor crawfish boil. The scene includes a family eating at a picnic table and two friends talking, as well as two large pots of boiled crawfish. Text explains some history and common practices -- 屋外でのザリガニのボイル（茹で料理）の光景です。ピクニックテーブルで食事をする家族や談笑する友人たちの姿、そしてザリガニを茹でた大きな鍋が2つ描かれています。添えられた文章では、その歴史や一般的な楽しみ方について解説しています。",
     "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Louisiana.png"
   },
   {
     "id": "003",
-    "title": "Winter Theme Park, Ukraine",
-    "country": "Ukraine",
-    "tradition": "Winter Theme Park",
-    "contributor": "Participant 08",
-    "description": "Fancy themed park in winter around Christmas. Shops, Christmas tree and ferris wheel.",
-    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Ukraine.png"
+    "title": "3. Bishkek, Kyrgyzstan -- キルギス、ビシュケク",
+    "country": "Kyrgyzstan",
+    "tradition": "Street scene",
+    "contributor": "P1",
+    "description": "Beautiful alley with trees on both sides in Bishkek city in Kyrgyzstan, people walking by, cafes and coffee shops from both sides of the street, people eating on the street near the cafes. musicians are playing on the street near one of the cafes and singing. An ice cream cart near by with different flavours of ice cream. It's a spring time, closer to the sunset, the mountains can be seen in the background -- キルギスのビシュケク市にある、両側に木々が並ぶ美しい並木道。行き交う人々、通りの両側に並ぶカフェやコーヒーショップ、そしてカフェの近くの路上で食事を楽しむ人々の姿があります。あるカフェの近くでは、ミュージシャンが演奏や歌を披露しています。そのそばには、さまざまな種類のアイスクリームを売る屋台も出ています。季節は春、夕暮れ時が近づいており、背景には山々が望めます",
+    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Kyrgyzstan.png"
   },
   {
     "id": "004",
-    "title": "Winter Theme Park, Ukraine",
-    "country": "Ukraine",
-    "tradition": "Winter Theme Park",
-    "contributor": "Participant 08",
-    "description": "Fancy themed park in winter around Christmas. Shops, Christmas tree and ferris wheel.",
-    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Kyrgyzstan.png"
+    "title": "4. Gyeongbokgung Palace - South Korea -- 景福宮（キョンボックン） - 韓国",
+    "country": "South Korea",
+    "tradition": "Palace",
+    "contributor": "YC",
+    "description": "This is a traditional Korean palace where the king once lived. Nowadays, it's one of the most famous sightseeing spots in Korea. -- ここは、かつて王が暮らしていた韓国の伝統的な宮殿です。現在では、韓国で最も有名な観光スポットの一つとなっています。",
+    "url": "https://cdn.jsdelivr.net/gh/Queegueg/CultureShareVRImageLibrary@main/ImagesLibrary/Korea.jpg"
   }
 ]
